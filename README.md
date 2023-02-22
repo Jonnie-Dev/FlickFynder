@@ -1,4 +1,5 @@
-##FlickFyndr
+#FlickFyndr
+
 "Flick" is a colloquial term for a movie or film, and "Fyndr" is a play on the word "finder", implying that the application helps users find and discover movies. So, FlickFyndr essentially means a tool that helps users find information about movies.
 
 Quick start:
