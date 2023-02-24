@@ -8,12 +8,7 @@ Quick start:
 
 Clone this repository: ```git clone https://github.com/Jonnie-Dev/FlickFynder```
 
-Navigate to the project directory: ```cd movie-search-app ```
-Install dependencies: ```yarn install / npm install```
+Navigate to the project directory: ```cd FlickFynder```
+Install dependencies: ```$yarn install #npm install```
 Create a .env.local file at the root of the project and add your TMDb API key as - VITE_API_KEY=<your_api_key>
-Start the development server: ```$yarn build / #npm run dev```
-
-```
-$ yarn # npm install
-$ yarn build # npm run dev
-````
+Start the development server: ```$yarn build #npm run dev```
